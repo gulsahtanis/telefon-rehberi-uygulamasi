@@ -1,5 +1,5 @@
 Proje Javascript kütüphanelerinden biri olan react.js ile javascript dilinde yazıldı. 
-Proje klasörünü indrip visual Studio Code etidöründe veya farklı bir editörde açıp daha sonra editör terminali üzerinden ilk önce npm  kurulması için
+Proje klasörünü indrip Visual Studio Code etidöründe veya farklı bir editörde açıp daha sonra editör terminali üzerinden ilk önce npm  kurulması için
 
 npm install
 Örneğin: C:\Users\GÜLŞAH\React-Projeler\telefon-rehberi-uygulamasi>npm install
