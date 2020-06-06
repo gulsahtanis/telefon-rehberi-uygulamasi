@@ -2,7 +2,7 @@ Proje Javascript kütüphanelerinden biri olan react.js ile Javascript dilinde y
 Projenin çalışması için:
 1)Proje klasörünü indrip zipten çıkarın.
 2)Visual Studio Code editöründe veya farklı bir editörde open folderdiyerek açın.
-3)Projeyi ayağa kaldırmak için VS Code terminal üzerinden ilk önce npm kurulumu için
+3)Projeyi ayağa kaldırmak için VS Code terminal üzerinden ilk önce npm kurulumunu gerçekleştirin
 
 npm install yapın
 Örneğin: C:\Users\GÜLŞAH\React-Projeler\telefon-rehberi-uygulamasi>npm install
