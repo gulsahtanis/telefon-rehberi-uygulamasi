@@ -1,0 +1,43 @@
+.listArea{
+    
+    margin :0 auto;
+}
+input{
+    border: 2px solid gray;
+    border-radius: 5px;
+    margin-top:10px;
+    height: 25px;
+    line-height: 25px;
+    width:100%;
+    text-indent: 10px;
+}
+input:hover{
+    border: 2px solid black;
+}
+.list{
+
+}
+.list li{
+    width: 99%;
+    padding:5px;
+    background-color:#f8f8f8 ;
+    border-bottom:solid 1px #f1f1f1;
+}
+.list li span{
+    display:block;
+    font-size: 13px;
+}
+.list li span.name{
+    float:left;
+}
+.list li span.phone{
+    float: right;
+}
+.clearfix{
+    clear:both;
+}
+.phone1 , .name1{
+    color:gray;
+    font-weight:bold;
+
+}

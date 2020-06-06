@@ -1,0 +1,27 @@
+#btn-add{
+    background-color: white;
+    color: gray;
+    border: 2px solid gray;
+    border-radius: 5px;
+    font-size:20px;
+    width: 80px;
+    height: 30px;
+}
+#btn-add:hover{
+    background-color: gray;
+    color:white;
+}
+#name{
+    border: 2px solid gray;
+    border-radius: 5px;
+}
+#name:hover{
+    border: 2px solid black;
+}
+#phone{
+    border: 2px solid gray;
+    border-radius: 5px;
+}
+#phone:hover{
+    border: 2px solid black;
+}
